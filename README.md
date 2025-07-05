@@ -37,7 +37,7 @@ Illustrates relationships between main entities: `Product`, `Customer`, `Cart`, 
 
 Visual representation of the main checkout process: from adding products to calculating fees and handling expiry.
 
-![Activity Diagram](diagrams/Activity- Digrams.png)
+![Activity Diagram](diagrams/Activity-Digram.png)
 
 ---
 
